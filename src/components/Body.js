@@ -10,7 +10,7 @@ const Body = () => {
             element: <Login />
         },
         {
-            path: "/header",
+            path: "/header", 
             element: <Header />
         },
     ])
